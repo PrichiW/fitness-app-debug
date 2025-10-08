@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FitnessTest</string>
+
+    <!-- Workout List Screen -->
+    <string name="search_hint">Поиск тренировок…</string>
+    <string name="filter_all">Все</string>
+    <string name="filter_training">Тренировка</string>
+    <string name="filter_live_stream">Эфир</string>
+    <string name="filter_complex">Комплекс</string>
+
+    <!-- Empty State -->
+    <string name="empty_state_title">Тренировки не найдены</string>
+    <string name="empty_state_message">Попробуйте изменить фильтры</string>
+
+    <!-- Error State -->
+    <string name="error_loading">Ошибка загрузки</string>
+    <string name="retry">Повторить</string>
+
+    <!-- Video Player -->
+    <string name="description_header">Описание</string>
+    <string name="no_description">Нет описания</string>
+    <string name="error_loading_video">Ошибка загрузки видео</string>
+
+    <!-- Player Controls -->
+    <string name="play_pause">Play/Pause</string>
+    <string name="rewind">Rewind</string>
+    <string name="fast_forward">Fast Forward</string>
+    <string name="fullscreen">Fullscreen</string>
+    <string name="settings">Settings</string>
+    <string name="playback_speed">Скорость: %1$.1fx</string>
+
+    <string name="playback_speed_format">%.2fx</string>
+</resources>
