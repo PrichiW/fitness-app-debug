@@ -6,9 +6,9 @@
 
 | Экран списка | Экран плеера |
 | :---: | :---: |
-| ![Workout List](<img width="476" height="790" alt="image" src="https://github.com/user-attachments/assets/382f399d-c1e7-4c1d-853d-4e318374710c" />
- | ![Video Player](<img width="476" height="791" alt="image" src="https://github.com/user-attachments/assets/24025d69-f862-46c6-a9a8-9f7604272d78" />
- |
+| <img width="476" height="790" alt="image" src="https://github.com/user-attachments/assets/382f399d-c1e7-4c1d-853d-4e318374710c" />
+| <img width="476" height="791" alt="image" src="https://github.com/user-attachments/assets/24025d69-f862-46c6-a9a8-9f7604272d78" />
+|
 
 ## Установка
 
