@@ -6,9 +6,7 @@
 
 | Экран списка | Экран плеера |
 | :---: | :---: |
-| <img width="476" height="790" alt="image" src="https://github.com/user-attachments/assets/382f399d-c1e7-4c1d-853d-4e318374710c" />
-| <img width="476" height="791" alt="image" src="https://github.com/user-attachments/assets/24025d69-f862-46c6-a9a8-9f7604272d78" />
-|
+| <img src="https://github.com/user-attachments/assets/382f399d-c1e7-4c1d-853d-4e318374710c" alt="Экран списка" width="350"/> | <img src="https://github.com/user-attachments/assets/24025d69-f862-46c6-a9a8-9f7604272d78" alt="Экран плеера" width="350"/> |
 
 ## Установка
 
