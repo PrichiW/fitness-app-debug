@@ -10,7 +10,7 @@
 
 ## Установка
 
-Готовый APK-файл можно скачать из раздела [Releases]([link_to_your_releases_page](https://github.com/PrichiW/fitness-app-debug/releases)) на GitHub.
+Готовый APK-файл можно скачать из раздела [Releases](https://github.com/PrichiW/fitness-app-debug/releases) на GitHub.
 
 ## Функционал
 
